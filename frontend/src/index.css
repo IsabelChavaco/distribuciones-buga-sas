@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: white;
+  color: black;
+}
+
+a {
+  text-decoration: none;
+  color: red;
+}
+
+header, footer {
+  background-color: black;
+  color: white;
+}
+
+h1, h2, h3 {
+  color: #D4AF37; /* dorado */
+}
+
+button {
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 0.6em 1em;
+  cursor: pointer;
+  border-radius: 4px;
+}
